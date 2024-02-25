@@ -1,6 +1,8 @@
 # name = input("Name: ")
 # print("Hello, " + name)
 
+
+# How f-string is use?
 # name = "Melissa"
 # age = 25
 # print(f"My name is {name} and I am {age} years oldr")
@@ -13,5 +15,5 @@
 #     return f"Hello, {name}!"
 # print(greet("Alice"))
 
-pi = 3.14159
-print(f"The value of pi is {pi:.2f}.")
+# pi = 3.14159
+# print(f"The value of pi is {pi:.2f}.")
