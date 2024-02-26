@@ -304,3 +304,22 @@
 # my_list.insert(2, 7)
 # print(my_list)  # Output: [1, 2, 7, 10, 5, 6]
 
+# CS50w NOTES
+names = ["Harry", "Ron", "Hermione"]
+print(names)
+
+names[1] = "Melissa"
+print(names)
+
+names.insert(2, "Mimmo")
+print(names)
+
+names.remove("Melissa")
+print(names)
+
+names.append("Marco")
+print(names)
+
+print(len(names))
+
+
